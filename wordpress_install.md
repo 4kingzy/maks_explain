@@ -1,7 +1,7 @@
 # maks_explain
 Objašnjenje 
 1. Napravio sam Account na Amazon Cloudu (https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-1) - to je bilo dosta straightforward
-2. S WOrdpress.org (https://wordpress.org/download/) sam skinuo wordpress datoteku 
+2. S Wrdpress.org (https://wordpress.org/download/) sam skinuo wordpress datoteku 
 3. zatim sam skinuo Xampp control panel (https://www.apachefriends.org/download.html) za pokretanje Apache i SQL
 4. U Xampp control panelu sam pokrenuo APache i SQL Module
 5. Iz Wordpress foldera sadržaj sam cut ---> u xampp/htdocs/example (novokreirani folder "example)
